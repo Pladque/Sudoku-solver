@@ -177,22 +177,10 @@ def print_results(t0):
     print_timer(t0)
 
 #Start timer, solve sudoku, and show results
-    #params: none
-    #sudoku tab has to be public vairable and dictionary 'posibilities' to save possible values
-    #return: none
-def main():
+if __name__ == "__main__":
+    print("If you are running this not in IDE, that may makes some issues")
+    input("press any key to start solving sudoku")
     t0 = start_timer()
     SolveSudoku()
     print_results(t0)
-
-
-#Start here
-print("If you are running this not in IDE, that may makes some issues")
-input("press any key to start solving sudoku")
-main()
-
-
-
-
-
 

@@ -14,13 +14,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aifMMYZVfBeZANA7Hx4xJlsQkF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -32,7 +35,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\plate\PycharmProjects\SudokuSOlver\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="D:\GITrepositories\Sudoku-solver\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -47,6 +50,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -61,37 +65,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="420" y="144" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587223333047">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="176" y="116" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598197594630">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="420" y="144" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1587223333047" />
-    <state x="746" y="244" key="FileChooserDialogImpl" timestamp="1587223330922">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="176" y="116" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1598197594630" />
+    <state width="1419" height="242" key="GridCell.Tab.0.bottom" timestamp="1598197604035">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="746" y="244" key="FileChooserDialogImpl/1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1587223330922" />
-    <state width="1659" height="21" key="GridCell.Tab.0.bottom" timestamp="1587584583563">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state width="1419" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1598197604035" />
+    <state width="1419" height="242" key="GridCell.Tab.0.center" timestamp="1598197604035">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1659" height="21" key="GridCell.Tab.0.bottom/1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1587584583563" />
-    <state width="1659" height="225" key="GridCell.Tab.0.bottom/1680.0.1680.1010/0.0.1680.1010@1680.0.1680.1010" timestamp="1587563640719" />
-    <state width="1659" height="21" key="GridCell.Tab.0.center" timestamp="1587584583563">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state width="1419" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1598197604035" />
+    <state width="1419" height="242" key="GridCell.Tab.0.left" timestamp="1598197604035">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1659" height="21" key="GridCell.Tab.0.center/1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1587584583563" />
-    <state width="1659" height="225" key="GridCell.Tab.0.center/1680.0.1680.1010/0.0.1680.1010@1680.0.1680.1010" timestamp="1587563640719" />
-    <state width="1659" height="21" key="GridCell.Tab.0.left" timestamp="1587584583563">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state width="1419" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1598197604035" />
+    <state width="1419" height="242" key="GridCell.Tab.0.right" timestamp="1598197604035">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1659" height="21" key="GridCell.Tab.0.left/1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1587584583563" />
-    <state width="1659" height="225" key="GridCell.Tab.0.left/1680.0.1680.1010/0.0.1680.1010@1680.0.1680.1010" timestamp="1587563640719" />
-    <state width="1659" height="21" key="GridCell.Tab.0.right" timestamp="1587584583563">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1659" height="21" key="GridCell.Tab.0.right/1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1587584583563" />
-    <state width="1659" height="225" key="GridCell.Tab.0.right/1680.0.1680.1010/0.0.1680.1010@1680.0.1680.1010" timestamp="1587563640719" />
-    <state x="482" y="114" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587241169268">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="482" y="114" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1587241169268" />
+    <state width="1419" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1598197604035" />
   </component>
 </project>

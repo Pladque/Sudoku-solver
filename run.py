@@ -26,8 +26,8 @@ posibilities = {}     # key is position and value is a list with fitting numbers
 def SudokuSolver(counter, going_back ):
 
     #Visual Solving
-    os.system('cls')
-    printBoard()
+    #os.system('cls')
+    #printBoard()
 
     if counter == 81:
         return 81  #If sudoku is solved. Returning 81 just to go back from recursion but sudoku is solved at that moment
